@@ -1,5 +1,6 @@
 to calculate implied probability density of a given ticker
 
+![](aapl.png)
 
 usage: change the ticker in `main.py` and run
 
@@ -9,4 +10,3 @@ todo:
 - display important things like variance
 - backtest
 
-# implied-prob
