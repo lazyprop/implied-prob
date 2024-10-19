@@ -1,7 +1,7 @@
 import yfinance as yf
 import pandas as pd
 
-def fetch_option_prices(ticker, expiration):
+def fetch_option_data(ticker, expiration):
     stock = yf.Ticker(ticker)
     option_chain = stock.option_chain(expiration)
     calls = option_chain.calls

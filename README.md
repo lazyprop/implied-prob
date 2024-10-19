@@ -1,6 +1,6 @@
-to calculate implied probability density of a given ticker
+to estimate implied probability density of a given ticker
 
-![](aapl.png)
+![](aapl-gaussian.png)
 
 usage: change the ticker in `main.py` and run
 
